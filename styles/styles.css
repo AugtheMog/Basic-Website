@@ -4,7 +4,7 @@ body {
 }
 
 div {
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .image-section {
@@ -15,5 +15,5 @@ div {
 .section-style {
   margin-right: 25px;
   margin-left: 25px;
-  background-color: white;
+  background-color: #f0e8c5;
 }
